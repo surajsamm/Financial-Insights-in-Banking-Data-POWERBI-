@@ -1,5 +1,10 @@
 # Financial-Insights-in-Banking-Data-POWERBI-
 
+![image](https://github.com/user-attachments/assets/f8621e03-6fff-4e2f-9cb4-210447f9cb9c)             ![image](https://github.com/user-attachments/assets/c5924945-2aec-42e5-a498-3e157f4e2354)    ![image](https://github.com/user-attachments/assets/aaa7c822-f33e-4a48-bc74-fa6ce39953d0)
+
+
+
+
 # Banking
 
 ### **Case Study: Unlocking Financial Insights in Banking Data**
